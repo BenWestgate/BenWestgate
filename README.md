@@ -1,7 +1,7 @@
 - Hi, I’m @BenWestgate
 - I’m interested in Bitcoin, security engineering, system administration
 - I also [contribute](https://gitlab.tails.boum.org/BenWestgate) often to [Tails](https://tails.net/about)
-- I’m currently learning by publishing my Tails bitcoin node and wallet project [Bails](https://github.com/benwestgate/Bails)
+- I’m currently learning by publishing my Tails bitcoin node and wallet project [CipherStick](https://github.com/benwestgate/Bails)
 - I’m looking to collaborate on any Bitcoin or security projects
 - Very proficient at Python, Bash and Linux administration
 - How to reach me twitter @BenWestgate_
